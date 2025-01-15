@@ -1,5 +1,5 @@
-### **Hard projects**
-- Tackle complex projects that require advanced skills and deep understanding of concepts.
+### **Postgrad projects**
+- Projects I want to do past graduation
 
 #### Python:
 - [ ] Create a **Machine Learning Model** for predictive analytics.

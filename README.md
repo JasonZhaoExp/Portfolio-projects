@@ -23,3 +23,9 @@ Projects that I want to be able to do without too many problems by the end of 20
   - [ ] Build a **Machine Learning-Powered Security Tool** using Python.
   - [ ] Simulate a **Secure Network Architecture** with virtualized environments.
 
+## **How I will carry them out**
+For each project, they will be in their own folder, categorised by difficulty, then by the langauge, then the project name. 
+
+For example, the email project would be in the src/easy/python/email folder.
+
+I will ask ChatGPT to help me mark the projects after completion, asking if it has met the requirements and for any possible improvements
